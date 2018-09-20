@@ -1,0 +1,21 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+ 
+```{r, eval = FALSE}
+input <- image_read("https://i.imgur.com/ISZ5vfG.jpg")
+
+text <- input %>%
+  image_resize("2000x") %>%
+  image_convert(type = 'Grayscale') %>%
+  image_trim(fuzz = 40) %>%
+  image_write(format = 'png', density = '300x300') %>%
+  tesseract::ocr() 
+
+cat(text)
+
+```
+
+ 

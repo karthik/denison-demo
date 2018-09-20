@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1537443012035.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "113FDD62",
+    "lastKnownWriteTime" : 1537443174,
+    "last_content_update" : 1537443174168,
+    "path" : "~/Desktop/denison-demo/drake.R",
+    "project_path" : "drake.R",
+    "properties" : {
+        "cursorPosition" : "70,1",
+        "scrollLine" : "66"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

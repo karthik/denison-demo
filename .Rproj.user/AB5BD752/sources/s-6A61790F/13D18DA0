@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1537450303083.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4276349471",
+    "id" : "13D18DA0",
+    "lastKnownWriteTime" : 1520370570,
+    "last_content_update" : 1520370570,
+    "path" : "~/Desktop/denison-demo/demo.R",
+    "project_path" : "demo.R",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1537310913054.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "27C9F90B",
+    "lastKnownWriteTime" : 1537317617,
+    "last_content_update" : 1537317617492,
+    "path" : "~/Desktop/denison-demo/riem.R",
+    "project_path" : "riem.R",
+    "properties" : {
+        "cursorPosition" : "13,20",
+        "scrollLine" : "7"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

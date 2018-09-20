@@ -1,0 +1,56 @@
+---
+title: "Drake demo"
+author: "Karthik Ram"
+output: html_document
+---
+
+```{r setuppackagesreport, echo = FALSE}
+suppressPackageStartupMessages(library(drake))
+suppressPackageStartupMessages(library(Ecdat))
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  fig.width = 7,
+  fig.height = 4
+)
+```
+
+This small data analysis project explores some trends in R package downloads over time. The datasets are downloaded using the [cranlogs package](https://github.com/metacran/cranlogs).
+
+```{r cranlogsintrovignette}
+library(cranlogs)
+cran_downloads(packages = "dplyr", when = "last-week")
+```
+
+
+# Results
+
+We look at download trends in the following packages.
+
+```{r reportlibdrakepkgs}
+library(drake)
+readd(package_list) # see also loadd() # nolint
+```
+
+Using the [cranlogs package](https://github.com/metacran/cranlogs), we calculate the mean number of downloads for each package from the RStudio CRAN mirror. We show these averages for the last month,
+
+```{r reportavgrecent}
+readd(averages_recent)
+```
+
+and from November 1 to December 1 in 2016.
+
+```{r reportavgolder}
+readd(averages_older)
+```
+
+We visualize the daily downloads from the last month,
+
+```{r reportplotrecent}
+readd(plot_recent)
+```
+
+and from November 1 to December 1 in 2016.
+
+```{r reportplotolder}
+readd(plot_older)
+```

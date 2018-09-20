@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1537450308517.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "C5C3B377",
+    "lastKnownWriteTime" : 1537450461,
+    "last_content_update" : 1537450461829,
+    "path" : "~/Desktop/denison-demo/tesseract.R",
+    "project_path" : "tesseract.R",
+    "properties" : {
+        "cursorPosition" : "36,19",
+        "scrollLine" : "30"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

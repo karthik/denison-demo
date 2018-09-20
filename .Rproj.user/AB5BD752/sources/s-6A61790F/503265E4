@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1537450298038.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "729373078",
+    "id" : "503265E4",
+    "lastKnownWriteTime" : 1520437125,
+    "last_content_update" : 1520437125,
+    "path" : "~/Desktop/denison-demo/magick.R",
+    "project_path" : "magick.R",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
