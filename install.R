@@ -1,7 +1,3 @@
 install.packages('tidyverse')
 install.packages('magick')
-install.packages('drake')
-install.packages('cranlogs')
 install.packages('tesseract')
-install.packages('riem')
-install.packages('readxl')
